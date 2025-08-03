@@ -7,7 +7,7 @@ It showcases fictional merchandise from **Robin**, a beloved character in *Honka
 
 ## 🔗 Live Demo
 
-👉 [View on GitHub Pages](https://你的用户名.github.io/fcc-product-landing-page/)  
+👉 [View on GitHub Pages](https://jasonkong-coder.github.io/fcc-build-a-product-landing-page//)  
 👉 [Source Code](https://github.com/你的用户名/fcc-product-landing-page)
 
 ---
